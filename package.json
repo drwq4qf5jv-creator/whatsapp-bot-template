@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-bot-template",
+  "version": "1.0.0",
+  "description": "Minimal WhatsApp bot template for Replit (Node.js + Baileys).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.0.0",
+    "@hapi/boom": "^10.0.0"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
